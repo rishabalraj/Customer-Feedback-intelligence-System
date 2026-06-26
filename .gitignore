@@ -1,0 +1,14 @@
+Amazon_DATA/
+models/
+data/
+reviews.db
+__pycache__/
+*.pyc
+*.bin
+*.pt
+*.joblib
+*.db
+*.safetensors
+venv/
+.env
+eval/

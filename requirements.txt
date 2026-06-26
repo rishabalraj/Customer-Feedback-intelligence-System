@@ -1,0 +1,15 @@
+pandas
+sqlalchemy
+scikit-learn
+joblib
+streamlit
+plotly
+requests
+sentence-transformers
+chromadb
+transformers
+torch
+accelerate
+ollama
+fastapi
+uvicorn
